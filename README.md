@@ -141,4 +141,4 @@ MIT. See [LICENSE](LICENSE).
 
 Disclosure: this tool is written and maintained by the Bigdomainhost team. We sell both fair-share VPS and VDS plans with reserved cores, which is why we wanted a neutral way to check the difference from inside any server, ours or anyone else's. The script does not contact us or anyone else.
 
-Made by Bigdomainhost — we explain VPS vs VDS here: https://bigdomainhost.com/vds-hosting.html
+Made by Bigdomainhost — we explain VPS vs VDS here: https://bigdomainhost.in/vds-hosting.html
